@@ -1,6 +1,6 @@
 ## minishell
 
-# minishell project for school 42
+### minishell project for school 42
 
 This is the first duet project at school 42 (done with @alixbbl) and one of the longest/biggest to produce.
 The idea is to reproduce a shell, OK well a simple one, which includes:
